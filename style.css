@@ -1,0 +1,17 @@
+.logo{
+    width: 100px;
+    height: 50px;
+}
+
+.fs{
+    font-size: 10px;
+}
+
+.box{
+    height: 10px;
+}
+
+.text{
+    margin:0;
+    padding:0;
+}
